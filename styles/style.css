@@ -1,0 +1,15 @@
+html {
+    background-color: #292a36;
+    color: #dddddd;
+    margin: 1% 10%;
+}
+
+
+.quote {
+    background-color: #383a4a;
+    margin: 0 auto;
+    padding: 1px 1em;
+    color: #b4d60b;
+    width: 90%;
+    font-size: 0.9em;
+}
