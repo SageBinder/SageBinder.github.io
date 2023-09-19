@@ -13,3 +13,9 @@ html {
     width: 90%;
     font-size: 0.9em;
 }
+
+.footer {
+    /* background-color: #000000; */
+    margin-top: 3em;
+    font-size: 0.7em;
+}
