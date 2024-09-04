@@ -19,3 +19,12 @@ html {
     margin-top: 3em;
     font-size: 0.7em;
 }
+
+a {
+    color: #53a4f8;
+}
+
+a:active {
+    color: #d705ff;
+}
+
