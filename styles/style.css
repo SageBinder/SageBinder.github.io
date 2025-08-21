@@ -4,7 +4,6 @@ html {
     margin: 1% 10%;
 }
 
-
 .quote {
     background-color: #383a4a;
     margin: 0 auto;
@@ -12,6 +11,14 @@ html {
     color: #b4d60b;
     width: 90%;
     font-size: 0.9em;
+}
+
+.paper-title {
+    color: #b4d60b;
+}
+
+.me {
+    color: #b4d60b;
 }
 
 .footer {
